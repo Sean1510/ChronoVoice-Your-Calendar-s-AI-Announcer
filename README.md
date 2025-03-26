@@ -21,5 +21,5 @@
 
 ## 🚀 Quick Start
 
-1. **Clone from iCloud**  
+**Clone from iCloud**  
    [https://www.icloud.com/shortcuts/0d8440e6834949a7b5344c5d9541a247](https://www.icloud.com/shortcuts/0d8440e6834949a7b5344c5d9541a247)
