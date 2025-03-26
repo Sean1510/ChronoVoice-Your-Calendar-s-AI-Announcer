@@ -23,4 +23,4 @@
 
 1. **Clone from iCloud**  
    ```bash
-   https://www.icloud.com/shortcuts/0d8440e6834949a7b5344c5d9541a247
+   [Click here](https://www.icloud.com/shortcuts/0d8440e6834949a7b5344c5d9541a247)
