@@ -22,5 +22,4 @@
 ## 🚀 Quick Start
 
 1. **Clone from iCloud**  
-   ```bash
    [Click here](https://www.icloud.com/shortcuts/0d8440e6834949a7b5344c5d9541a247)
