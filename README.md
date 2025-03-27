@@ -39,9 +39,8 @@
 
   - **🔧 Customize it:**
 
-  -- Prefer fewer triggers? Adjust the condition in Find Calendar Events (e.g., "Start Date is in the next 2 hours") and reduce automations to 12 total (every 2 hours).
+    - Prefer fewer triggers? Adjust the condition in Find Calendar Events (e.g., "Start Date is in the next 2 hours") and reduce automations to 12 total (every 2 hours).
 
-  -- Enable "Run Immediately" for instant, notification-free execution.
-   
-
-
+    - Enable "Run Immediately" for instant, notification-free execution.
+  
+  
