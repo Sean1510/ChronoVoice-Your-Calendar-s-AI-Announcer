@@ -1,6 +1,6 @@
-# 📅 Auto Calendar Reminder
+# 📅 ChronoVoice - Your Calendar's AI Announcer
 
-**Never miss an upcoming event!** Auto Calendar Reminder is a smart automation workflow that filters, formats, and reminds you of calendar events in real-time. Perfect for busy schedules, meetings, and deadlines!
+**Never miss an upcoming event!** ChronoVoice is a smart automation workflow that filters, formats, and reminds you of calendar events in real-time. Perfect for busy schedules, meetings, and deadlines!
 
 ---
 
