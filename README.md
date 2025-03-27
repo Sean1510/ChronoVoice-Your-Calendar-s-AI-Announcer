@@ -23,11 +23,11 @@
 
 1. **Get the Shortcut**
 
-   🌩️ Download from iCloud:
+  🌩️ Download from iCloud:
    
-   [✨ Tap here to install the shortcut](https://www.icloud.com/shortcuts/0d8440e6834949a7b5344c5d9541a247)
+  [✨ Tap here to install the shortcut](https://www.icloud.com/shortcuts/0d8440e6834949a7b5344c5d9541a247)
 
-   ![Picsew_20250326152052](https://github.com/user-attachments/assets/cafdbadb-d4db-4768-9ee6-bce55d2e3889)
+  ![Picsew_20250326152052](https://github.com/user-attachments/assets/cafdbadb-d4db-4768-9ee6-bce55d2e3889)
    
 2. **Automate Like a Pro**
 
@@ -42,5 +42,8 @@
     - Prefer fewer triggers? Adjust the condition in Find Calendar Events (e.g., "Start Date is in the next 2 hours") and reduce automations to 12 total (every 2 hours).
 
     - Enable "Run Immediately" for instant, notification-free execution.
+
+  ![IMG_7996](https://github.com/user-attachments/assets/2a38f712-5d70-4959-a7aa-60c4cba4e3e9)
+
   
   
